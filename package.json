@@ -1,0 +1,24 @@
+{
+  "name": "ydkjsy-practices",
+  "version": "1.0.0",
+  "description": "Practices in You Don't Know JS Yet",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./**/*.html",
+    "build": "parcel build ./**/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixj93/YDKJSY-practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixj93/YDKJSY-practices/issues"
+  },
+  "homepage": "https://github.com/mixj93/YDKJSY-practices#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
