@@ -1,4 +1,4 @@
-// Q: https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apB.md#practicing-comparisons
+// https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apB.md#practicing-comparisons
 
 const dayStart = '07:30'
 const dayEnd = '17:45'
